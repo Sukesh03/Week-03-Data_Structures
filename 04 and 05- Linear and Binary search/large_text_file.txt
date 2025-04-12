@@ -1,0 +1,7 @@
+This is a sample text file for testing.
+It contains multiple lines and words.
+Each line will be read, and we will count the words.
+This file is just for testing purposes.
+The program should count all the words in the file accurately.
+This is another line with some more words.
+Let's see how well the word counting works!

@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains a few lines of text.
+Each line will be printed as characters when read from the file.
+This is useful for reading files with character encoding.
+Have a great day!
