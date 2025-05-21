@@ -71,7 +71,9 @@ Before starting Week 3, ensure the following:
 
 - Java Development Kit (JDK) is installed and configured
 - An IDE such as IntelliJ IDEA, Eclipse, or Visual Studio Code is set up
-- You are familiar with Java fundamentals and OOP concepts from [Week 1](https://github.com/Sukesh03/Week-01_Core_Programming) and [Week 2]((https://github.com/Sukesh03/Week-02_Object_Oriented_Programming))
+- You are familiar with Java fundamentals and OOP concepts from:
+  - [Week 1 – Core Java Programming](https://github.com/Sukesh03/Week-01_Core_Programming)
+  - [Week 2 – Object-Oriented Programming in Java](https://github.com/Sukesh03/Week-02_Object_Oriented_Programming)
 
 ---
 
@@ -84,3 +86,4 @@ Each folder in this repository corresponds to a specific day's topic. These fold
 - Modify the code or add new examples to deepen your understanding
 
 This structure is designed to support hands-on learning and reinforce key concepts in exception handling and collections.
+
