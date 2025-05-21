@@ -71,7 +71,7 @@ Before starting Week 3, ensure the following:
 
 - Java Development Kit (JDK) is installed and configured
 - An IDE such as IntelliJ IDEA, Eclipse, or Visual Studio Code is set up
-- You are familiar with Java fundamentals and OOP concepts from [Week 1](https://github.com/Sukesh03/Week-01_Core_Programming) and [Week 2]([https://github.com/Sukesh03/Week-02_OOP_Java](https://github.com/Sukesh03/Week-02_Object_Oriented_Programming))
+- You are familiar with Java fundamentals and OOP concepts from [Week 1](https://github.com/Sukesh03/Week-01_Core_Programming) and [Week 2]((https://github.com/Sukesh03/Week-02_Object_Oriented_Programming))
 
 ---
 
